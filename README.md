@@ -16,10 +16,10 @@
 
 ### 🧠 About Me
 - 🎓 Computer Engineering Student (3rd Semester)
-- 💻 Strong in **C / C++ / JavaScript**
+- ⭐ **Primary Stack:** **C / C++ / JavaScript**
 - 🐍 Worked with **Python**
 - 📱 Familiar with **Kotlin**
-- 🎯 Interested in **Algorithms & Backend Development**
+- 🎯 Interested in **Algorithms & frontend Development**
 
 ---
 
